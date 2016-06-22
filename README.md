@@ -1,2 +1,5 @@
 # hello_world
-Just getting started
+
+  Chaitanya here!
+  
+  Hello to the world of GitHub.
